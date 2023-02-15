@@ -1,1 +1,1 @@
-these are the scripts used in alx system engineering devops
+this is my first script on alx
